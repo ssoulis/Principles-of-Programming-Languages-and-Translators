@@ -47,4 +47,6 @@ USER INSTRUCTIONS:
 
 You can find how to run our Pseudo-language in the Project_Report.pdf file.
 
+NOTE : Για τους Έλληνες αναγνώστες ανοίξτε το αρχείο ΑΝΑΦΟΡΑ.pdf
+
 Thank you for your time!

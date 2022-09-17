@@ -41,7 +41,7 @@ The language parsed into the utterance is a pseudo-language that follows the log
 
 VERSION or DATE: SPRING 2021
 
-The project report was originally written by me in Greek and was translated by me so it may have some mistakes in the translation :)
+The project report was originally written by me in Greek and was translated by me so there may be some mistakes in the traslated version :)
 
 USER INSTRUCTIONS:
 
